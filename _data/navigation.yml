@@ -1,0 +1,17 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "People"
+    url: /people/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+  - title: "Students"
+    url: /students/
+  - title: "News"
+    url: /news/
+  - title: "Contact"
+    url: /contact/

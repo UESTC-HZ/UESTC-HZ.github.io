@@ -1,0 +1,17 @@
+title: "DICT - Digital & Intelligence Convergence Team"
+subtitle: "数智融合创新研究团队"
+description: "We focus on AI systems, multimodal intelligence, and intelligent decision-making."
+
+url: "https://uestc-hz.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
