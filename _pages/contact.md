@@ -1,12 +1,13 @@
 ---
+layout: single
 title: Contact
-layout: default
 permalink: /contact/
 ---
 
 # Contact
 
-UESTC-HZ Organization
+📍 UESTC  
 
-Email: xxx@xxx.com  
-Location: University / Lab  
+📧 Email: xxx@xxx.com  
+
+🔗 GitHub: https://github.com/UESTC-HZ

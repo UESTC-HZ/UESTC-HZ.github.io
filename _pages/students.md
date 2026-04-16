@@ -1,10 +1,10 @@
 ---
+layout: single
 title: Students
-layout: default
 permalink: /students/
 ---
 
 # Student Achievements
 
-- Project / Paper / Competition result
-- Student Name — Achievement
+- Best Paper Award — Student A  
+- Competition Winner — Student B  

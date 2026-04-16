@@ -1,39 +1,22 @@
-title: "DICT - Digital & Intelligence Convergence Team"
-subtitle: "数智融合创新研究团队"
-description: "We focus on AI systems, multimodal intelligence, and intelligent decision-making."
+title: "DICT"
+name: "Digital & Intelligence Convergence Team"
+description: "数智融合创新研究团队"
 
-url: "https://uestc-hz.github.io"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"   # 推荐 air / default / dark
 
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-scholar
+locale: "en-US"
 
 markdown: kramdown
 
-collections:
-  pages:
-    output: true
+# Header
+masthead_title: "DICT"
 
-scholar:
-  style: apa
-  locale: en
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      url: "https://github.com/UESTC-HZ"
 
-  source: ./_publications
-  bibliography: papers.bib
-
-  sort_by: year,month
-  order: descending
-
-  group_by: year
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: publications
-  details_layout: bibtex.html
-  details_link: "details"
-
-  bibliography_template: "{{reference}}"
+# Navigation
+nav: main

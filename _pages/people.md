@@ -1,33 +1,33 @@
 ---
+layout: single
 title: People
-layout: default
 permalink: /people/
 ---
 
 # People
 
-## Principal Investigator
+## 👨‍🏫 Principal Investigator
 
-- **Name**  
-  Position  
-  Email  
-  Google Scholar / GitHub
-
----
-
-## PhD Students
-
-- Name — Research Topic — Year
-- Name — Research Topic — Year
+**Shaoning Zeng**  
+- Research: AI Systems, Multimodal Learning  
+- Email: xxx@xxx.com  
+- [Google Scholar](#) | [GitHub](#)
 
 ---
 
-## Master Students
+## 🎓 PhD Students
 
-- Name — Topic
+- Name — Research Topic — Year  
+- Name — Research Topic — Year  
 
 ---
 
-## Alumni
+## 🎓 Master Students
 
-- Name — Current Institution / Company
+- Name — Topic  
+
+---
+
+## 🏫 Alumni
+
+- Name — Now at XXX

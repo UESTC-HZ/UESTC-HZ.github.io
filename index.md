@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: DICT
+author_profile: false
 ---
 
 # Digital & Intelligence Convergence Team (DICT)
@@ -16,7 +17,15 @@ We explore the convergence of **digital intelligence and physical-world systems*
 - Multimodal AI Systems  
 - Intelligent Decision Making  
 - AI Agents & Systems  
-- Data-driven Scientific Infrastructure  
+- Data-driven Scientific Intelligence  
+
+---
+
+## Latest News
+
+<!-- NEWS:START -->
+- 2026: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining"
+<!-- NEWS:END -->
 
 ---
 
@@ -32,19 +41,15 @@ We explore the convergence of **digital intelligence and physical-world systems*
 
 ---
 
-## Latest News
-
-- 2026: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining"
-
----
-
 ## Featured Publications
 
+<!-- PUBS:START -->
 - **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**
   - Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
   - *AAAI* (2026)
+<!-- PUBS:END -->
 
-(More in Publications page)
+👉 [View All Publications →](/publications/)
 
 ---
 
