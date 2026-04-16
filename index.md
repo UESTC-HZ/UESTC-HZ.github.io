@@ -20,6 +20,18 @@ We explore the convergence of **digital intelligence and physical-world systems*
 
 ---
 
+## Featured Projects
+
+- **Autonomous Robot Perception System**  
+  Robust multi-modal perception and navigation  
+  [Learn More →](/projects/)
+
+- **Self-Evolving AI Agent System**  
+  From data to intelligent agents with continuous learning  
+  [Learn More →](/projects/)
+
+---
+
 ## Latest News
 
 - 🧠 New paper accepted at AAAI / NeurIPS (update here)
