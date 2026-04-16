@@ -1,19 +1,27 @@
 ---
 title: Publications
+layout: default
 permalink: /publications/
 ---
 
 # Publications
 
-## 2026
+{% assign pubs = site.bibliography | sort: "year" | reverse %}
 
-- Title of Paper  
-  Authors  
-  Conference / Journal  
-  [PDF] [Code]
+{% for y in (2020..2030) reversed %}
+  {% assign year_pubs = pubs | where: "year", y %}
 
-## 2025
+  {% if year_pubs.size > 0 %}
+## {{ y }}
 
-- Title of Paper  
-  Authors  
-  Conference / Journal  
+    {% for p in year_pubs %}
+- **{{ p.title }}**  
+  {{ p.author }}  
+  _{{ p.booktitle | default: p.journal }}_  
+  {% if p.url %}[Link]({{ p.url }}){% endif %}
+  {% if p.pdf %}[PDF]({{ p.pdf }}){% endif %}
+  {% if p.code %}[Code]({{ p.code }}){% endif %}
+
+    {% endfor %}
+  {% endif %}
+{% endfor %}

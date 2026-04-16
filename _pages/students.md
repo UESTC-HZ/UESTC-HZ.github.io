@@ -1,5 +1,6 @@
 ---
 title: Students
+layout: default
 permalink: /students/
 ---
 

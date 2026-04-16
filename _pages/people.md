@@ -1,5 +1,6 @@
 ---
 title: People
+layout: default
 permalink: /people/
 ---
 
