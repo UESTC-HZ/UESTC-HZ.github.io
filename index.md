@@ -34,15 +34,17 @@ We explore the convergence of **digital intelligence and physical-world systems*
 
 ## Latest News
 
-- 🧠 New paper accepted at AAAI / NeurIPS (update here)
-- 🚀 New PhD students joined DICT
-- 📄 New project launched on AI systems
+- 2026: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining"
 
 ---
 
 ## Featured Publications
 
-(see Publications page)
+- **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**
+  - Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
+  - *AAAI* (2026)
+
+(More in Publications page)
 
 ---
 
