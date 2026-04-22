@@ -1,20 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | DICT</title>
-  <link rel="stylesheet" href="/assets/style.css">
-</head>
+---
+layout: default
+---
 
-<body>
-
-  {% include header.html %}
-
-  <main style="max-width: 900px; margin: auto; padding: 20px;">
+<div class="layout">
+  {% include masthead.html %}
+  {% include navigation.html %}
+  
+  <div class="initial-content">
     {{ content }}
-  </main>
+  </div>
 
   {% include footer.html %}
+</div>
 
-</body>
-</html>
+{% include scripts.html %}

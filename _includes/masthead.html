@@ -1,0 +1,14 @@
+{% if site.logo %}
+  <a class="site-logo" href="{{ '/' | relative_url }}" aria-label="{{ site.masthead_title | default: site.title }}">
+    <img src="{{ site.logo | relative_url }}" alt="">
+  </a>
+{% endif %}
+
+{% if site.title %}
+  <div class="site-title">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </div>
+  {% if site.subtitle %}
+    <div class="site-subtitle">{{ site.subtitle }}</div>
+  {% endif %}
+{% endif %}
