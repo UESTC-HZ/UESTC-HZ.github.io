@@ -21,11 +21,9 @@ We aim to build **end-to-end intelligent systems**, bridging models and real-wor
 
 本项目致力于构建面向不同垂直领域的自进化智能体系统，通过数据驱动的智能体生成与多智能体协同机制，实现领域知识的持续学习与演化，广泛应用于科研分析、产业决策与城市治理等场景。
 
-#### 📄 ACL 2026 Main Paper
-
 ![Agent System](/assets/images/projects/kdrag.png)
 
-**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
+- **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
 Jinliang Liu, Jiale Bai, **🔥 Shaoning Zeng**, ACL 2026
 
 --- 
