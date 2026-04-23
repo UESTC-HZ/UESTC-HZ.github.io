@@ -89,20 +89,22 @@ def format_entry(entry):
     pdf = entry.get("pdf", "")
     code = entry.get("code", "")
 
+    # ===== links（用 · 分隔，更像 Scholar）=====
     links = []
-    if url:
-        links.append(f"[Link]({url})")
     if pdf:
         links.append(f"[PDF]({pdf})")
     if code:
         links.append(f"[Code]({code})")
+    if url:
+        links.append(f"[Link]({url})")
 
-    links_str = " ".join(links)
+    links_str = " · ".join(links)
 
-    md = f"""- **{title}**
-  - {author}
-  - *{venue}* ({year})
-  {links_str}
+    # ===== Scholar-style Markdown =====
+    md = f"""**{title}**  
+{author}  
+*{venue} {year}*  
+{links_str}
 """
 
     return {
@@ -127,7 +129,7 @@ def generate_publications(entries):
     years = sorted(grouped.keys(), reverse=True)
 
     content = """---
-layout: default
+layout: single
 title: Publications
 permalink: /publications/
 ---

@@ -1,18 +1,18 @@
 ---
 layout: home
-title: DICT
+title: DICT@YDRI.UESTC
 author_profile: false
 ---
 
-# Digital & Intelligence Convergence Team (DICT)
+# 数智融合创新研究团队，from YDRI (Huzhou) UESTC
 
-## 数智融合创新研究团队
+## Digital & Intelligence Convergence Team (DICT)
 
 We explore the convergence of **digital intelligence and physical-world systems**, aiming to build next-generation AI methodologies for perception, reasoning, and decision-making.
 
 ---
 
-## Research Focus
+## 主要研究方向 Research Focus
 
 - Multimodal AI Systems  
 - Intelligent Decision Making  
