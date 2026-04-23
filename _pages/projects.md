@@ -23,22 +23,20 @@ We aim to build **end-to-end intelligent systems**, bridging models and real-wor
 
 #### 📄 ACL 2026 Main Paper
 
-![Agent System](/assets/images/projects/kgrag.png)
+![Agent System](/assets/images/projects/kdrag.png)
 
 **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
-Jinliang Liu, Jiale Bai, **🔥 Shaoning Zeng**
+Jinliang Liu, Jiale Bai, **🔥 Shaoning Zeng**, ACL 2026
 
----
-
-#### 📄 ACL 2026 Findings
+--- 
 
 ![Agent System](/assets/images/projects/seagent.png)
 
-**A Dual-Phase Self-Evolution Framework for Large Language Models**  
-Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**
+- **A Dual-Phase Self-Evolution Framework for Large Language Models**  
+Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**, ACL 2026
 
-**Preference-Aware Memory Update for Long-Term LLM Agents**  
-Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**
+- **Preference-Aware Memory Update for Long-Term LLM Agents**  
+Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**, ACL 2026
 
 ---
 
@@ -48,6 +46,9 @@ Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**
 面向复杂开放环境下的机器人自主导航任务，本项目构建了一套从数据自动构建、模型自适应学习到多模态感知融合的完整系统，使机器人具备稳定的环境理解与决策能力，可应用于智能巡检、无人机场景与安全监控等领域。
 
 ![Robot System](/assets/images/projects/robot.png)
+
+- **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**  
+Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Shaoning Zeng†**, AAAI 2026
 
 ---
 
