@@ -13,7 +13,7 @@ main:
     url: /projects/
   # - title: "Students"
   #   url: /students/
-  - title: "近期动态"
+  - title: "近期动态 News"
     url: /news/
   - title: "联系我们 Contact"
     url: /contact/

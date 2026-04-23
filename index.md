@@ -4,7 +4,7 @@ title: DICT@YDRI.UESTC
 author_profile: false
 ---
 
-# 数智融合创新研究团队，from YDRI (Huzhou) UESTC
+# 数智融合创新研究团队 <a href="https://csj.uestc.edu.cn" target="_blank">Since 2021</a>
 
 ## Digital & Intelligence Convergence Team (DICT)
 
