@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
-# Minimal Mistakes theme compatible with Ruby 2.6
-gem "minimal-mistakes-jekyll", "~> 4.24.0"
-
 group :jekyll_plugins do
   gem "jekyll-include-cache"
 end

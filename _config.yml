@@ -2,26 +2,27 @@ title: "DICT"
 name: "Digital & Intelligence Convergence Team"
 description: "数智融合创新研究团队"
 
-# Minimal Mistakes Theme
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
-# Site Settings
 locale: "en-US"
 markdown: kramdown
 
-# Site Author
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+
 author:
   name: "DICT Team"
 
-# Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/UESTC-HZ"
 
-# Defaults
 defaults:
   - scope:
       path: ""
@@ -32,7 +33,6 @@ defaults:
       share: false
       comments: false
 
-# Navigation
-nav:
-  main: "main"
+url: "https://uestc-hz.github.io"
+baseurl: ""
 
