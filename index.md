@@ -8,7 +8,9 @@ author_profile: false
 
 ## Digital & Intelligence Convergence Team (DICT)
 
-We explore the convergence of **digital intelligence and physical-world systems**, aiming to build next-generation AI methodologies for perception, reasoning, and decision-making.
+我们聚焦于**模型驱动的软硬件智能系统**，致力于构建从数据到模型、再到系统落地的统一方法论。团队围绕智能模型与计算架构的深度协同，探索高效、可解释且可部署的智能系统，在感知、决策与系统优化等关键环节实现从算法到系统的跨层融合。
+
+We focus on **model-driven intelligent systems across hardware and software**, aiming to establish unified methodologies from data and models to real-world deployment. Our research emphasizes the co-design of intelligent models and computing architectures, enabling efficient, interpretable, and deployable systems for perception, decision-making, and system-level optimization.
 
 ---
 
