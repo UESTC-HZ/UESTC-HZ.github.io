@@ -4,73 +4,50 @@ title: Projects
 permalink: /projects/
 ---
 
-
 ## 项目概览 | Overview
 
-我们聚焦于**模型驱动的智能系统（Model-driven Intelligent Systems）**，  
-构建从数据到模型，再到系统与应用的完整闭环：
+我们聚焦于**模型驱动的智能系统（Model-driven Intelligent Systems）**，构建从数据、模型到系统部署的完整闭环，实现算法与真实世界应用的统一。
 
-**数据 Data → 模型 Model → 系统 System → 价值 Value**
-
-We aim to deliver **end-to-end intelligent solutions**, not just algorithms.
+We aim to build **end-to-end intelligent systems**, bridging models and real-world deployment.
 
 ---
 
-## 代表性成果 | Featured Projects
+## 代表性项目 | Featured Projects
 
 ---
 
-### 1. 特种场景自主导航机器人感知系统  
-**Autonomous Perception System for Robots**
+### 1. 自进化垂域智能体构建系统  
+### Self-Evolving Domain-Specific Agent System
 
-> 让机器人在复杂环境中“看得懂、走得稳”  
-> Robust perception and navigation in complex environments
+本项目致力于构建面向不同垂直领域的自进化智能体系统，通过数据驱动的智能体生成与多智能体协同机制，实现领域知识的持续学习与演化，广泛应用于科研分析、产业决策与城市治理等场景。
 
-#### 🔹 核心能力 | Key Features
+#### 📄 ACL 2026 Main Paper
 
-- 数据自动构建（Automated Dataset Construction）  
-- 模型自适应进化（Self-evolving Models）  
-- 多模态融合感知（Multi-modal Fusion）  
-- 语义理解与动态建图（Semantic Mapping）
+![Agent System](/assets/images/projects/kgrag.png)
 
-#### 🔹 应用场景 | Applications
+**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
+Jinliang Liu, Jiale Bai, **🔥 Shaoning Zeng**
 
-- 草坪与巡检机器人（Robotics）  
-- 无人机场与无人车（Smart Airport）  
-- 安防与应急系统（Security & Emergency）  
+---
 
-#### 🔹 技术路径 | Pipeline
+#### 📄 ACL 2026 Findings
 
-数据 Data → 模型 Model → 感知 Perception → 规划 Planning → 控制 Control
+![Agent System](/assets/images/projects/seagent.png)
+
+**A Dual-Phase Self-Evolution Framework for Large Language Models**  
+Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**
+
+**Preference-Aware Memory Update for Long-Term LLM Agents**  
+Haoran Sun*, Zekun Zhang*, **🔥 Shaoning Zeng†**
+
+---
+
+### 2. 特种场景自主导航机器人感知系统  
+### Autonomous Perception System for Robots
+
+面向复杂开放环境下的机器人自主导航任务，本项目构建了一套从数据自动构建、模型自适应学习到多模态感知融合的完整系统，使机器人具备稳定的环境理解与决策能力，可应用于智能巡检、无人机场景与安全监控等领域。
 
 ![Robot System](/assets/images/projects/robot.png)
-
----
-
-### 2. 自进化垂域智能体构建系统  
-**Self-Evolving Domain-Specific Agent System**
-
-> 让每个行业拥有自己的智能体  
-> AI agents that continuously evolve for each domain
-
-#### 🔹 核心能力 | Key Features
-
-- 数据自动构建智能体（Dataset Agent）  
-- 多智能体协同进化（Multi-agent Evolution）  
-- 垂域模型快速生成（Domain LLMs）  
-- 多模态智能（Multi-modal Intelligence）
-
-#### 🔹 应用场景 | Applications
-
-- 知识产权与市场分析（IP & Market Analysis）  
-- 教育与科研智能化（Education & Research）  
-- 政务与城市治理（Gov & Smart City）  
-
-#### 🔹 技术路径 | Pipeline
-
-领域数据 Data → 数据Agent → 模型 Model → 智能体 Agent → 持续进化 Evolution
-
-![Agent System](/assets/images/projects/agent.png)
 
 ---
 
@@ -78,7 +55,7 @@ We aim to deliver **end-to-end intelligent solutions**, not just algorithms.
 
 - 多智能体系统（Multi-Agent Systems）  
 - 具身智能与机器人（Embodied AI & Robotics）  
-- 数据驱动AI（Data-centric AI）  
+- 数据驱动智能系统（Data-centric AI Systems）  
 
 ---
 
@@ -89,4 +66,3 @@ We aim to deliver **end-to-end intelligent solutions**, not just algorithms.
 We welcome collaboration from **industry, academia, and public sectors**.
 
 → See [Contact](/contact/)
-
