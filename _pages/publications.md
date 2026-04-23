@@ -4,8 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+# 近期发表部分论文
 
+谷歌学术 - https://scholar.google.com/citations?user=4ySzHlYAAAAJ&hl=en
 
 ## 2026
 
