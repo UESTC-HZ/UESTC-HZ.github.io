@@ -70,8 +70,8 @@ def normalize_venue(entry):
         return "NeurIPS"
     if "icml" in venue_lower:
         return "ICML"
-    if "ieee" in venue_lower:
-        return "IEEE Journal"
+    # if "ieee" in venue_lower:
+    #    return "IEEE Journal"
 
     return venue
 
