@@ -16,29 +16,34 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 
 ## 主要研究方向 Research Focus
 
-- Multimodal AI Systems  
-- Intelligent Decision Making  
-- AI Agents & Systems  
-- Data-driven Scientific Intelligence  
+- Self-Evolving AI Agents (See [Publications →](/publications/) / [Projects →](/projects/))
+- Autonomous Perception System for Robots (See [Projects →](/projects/))
+- Computer Vision (See [Publications →](/publications/)) 
+- Other topics around Model-driven Intelligent Systems (See [Projects →](/projects/))
 
 ---
 
 ## Latest News
 
 <!-- NEWS:START -->
-- 2026: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining"
+- 2026-03: 📄 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation"
+- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
+*Findings of the Association for Computational Linguistics: ACL 2026 2026*  
+- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
+*Findings of the Association for Computational Linguistics: ACL 2026 2026*
+- 2025-12: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
 <!-- NEWS:END -->
 
 ---
 
 ## Featured Projects
 
-- **Autonomous Robot Perception System**  
-  Robust multi-modal perception and navigation  
-  [Learn More →](/projects/)
-
 - **Self-Evolving AI Agent System**  
   From data to intelligent agents with continuous learning  
+  [Learn More →](/projects/)
+
+- **Autonomous Robot Perception System**  
+  Robust multi-modal perception and navigation  
   [Learn More →](/projects/)
 
 ---
@@ -46,9 +51,29 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 ## Featured Publications
 
 <!-- PUBS:START -->
-- **SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**
-  - Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
-  - *AAAI* (2026)
+**Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
+Liu, Jinliang, Bai, Jiale, **🔥 Zeng Shaoning**  
+*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) 2026*  
+
+
+**A Dual-Phase Self-Evolution Framework for Large Language Models**  
+Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
+*Findings of the Association for Computational Linguistics: ACL 2026 2026*  
+
+
+**Preference-Aware Memory Update for Long-Term LLM Agents**  
+Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
+*Findings of the Association for Computational Linguistics: ACL 2026 2026*  
+
+
+**SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining**  
+Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**  
+*AAAI 2026*  
+
+
+**H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents**  
+Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob  
+*Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers) 2026*
 <!-- PUBS:END -->
 
 👉 [View All Publications →](/publications/)
