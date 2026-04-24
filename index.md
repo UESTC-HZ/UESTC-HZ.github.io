@@ -19,7 +19,7 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 - Self-Evolving AI Agents (See [Publications →](/publications/) / [Projects →](/projects/))
 - Autonomous Perception System for Robots (See [Projects →](/projects/))
 - Computer Vision (See [Publications →](/publications/)) 
-- Other topics around Model-driven Intelligent Systems (See [Projects →](/projects/))
+- Model-driven Intelligent Systems (See [Projects →](/projects/))
 
 ---
 
@@ -28,9 +28,7 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 <!-- NEWS:START -->
 - 2026-03: 📄 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation"
 - 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
-*Findings of the Association for Computational Linguistics: ACL 2026 2026*  
 - 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
-*Findings of the Association for Computational Linguistics: ACL 2026 2026*
 - 2025-12: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
 <!-- NEWS:END -->
 
