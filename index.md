@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: DICT@YDRI.UESTC
 author_profile: false
 ---
@@ -82,5 +82,9 @@ Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob
 
 ## Contact
 
-UESTC-HZ Organization  
-Email: your-email@domain.com
+数智融合创新研究团队，<a href="https://csj.uestc.edu.cn" target="_blank">2021-至今</a>
+电子科技大学长三角研究院（湖州）
+DICT of YDRI (Huzhou), UESTC
+
+欢迎联系校企合作、到湖实习（本科生、研究生）、学术交流。
+Email: zsn (AT) outlook.com
