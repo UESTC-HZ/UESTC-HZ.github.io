@@ -26,10 +26,10 @@ We focus on **model-driven intelligent systems across hardware and software**, a
 ## Latest News
 
 <!-- NEWS:START -->
-- 2026-03: 📄 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation"
-- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
-- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran, Zhang, Zekun, **🔥 Zeng Shaoning**  
-- 2025-12: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu, Sun, Haoran, **🔥 Zeng Shaoning**
+- 2026-03: 📄 (Main) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation", Liu, Jinliang (到湖本科实习生), Bai, Jiale, **🔥 Zeng Shaoning** 
+- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "A Dual-Phase Self-Evolution Framework for Large Language Models", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
+- 2026-03: 📄 (Findings) Paper accepted at Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) — "Preference-Aware Memory Update for Long-Term LLM Agents", Sun, Haoran (到湖本科实习生), Zhang, Zekun, **🔥 Zeng Shaoning**  
+- 2025-12: 📄 Paper accepted at AAAI — "SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining", Wang, Jiayu, Bian, Haoyu (到湖本科实习生), Sun, Haoran, **🔥 Zeng Shaoning**
 <!-- NEWS:END -->
 
 ---
@@ -84,5 +84,5 @@ Sun, Haoran, **🔥 Zeng Shaoning**, Zhang, Bob
 电子科技大学长三角研究院（湖州）
 DICT of YDRI (Huzhou), UESTC
 
-欢迎联系校企合作、到湖实习（本科生、研究生）、学术交流。
-Email: zsn (AT) outlook.com
+校企合作、到湖实习（本科生、研究生）及学术交流等，
+请联系 Email: zsn (AT) outlook.com
