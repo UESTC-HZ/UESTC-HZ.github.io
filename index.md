@@ -1,6 +1,7 @@
 ---
 layout: single
 title: DICT@YDRI.UESTC
+custom_title: "DICT@YDRI.UESTC — 科研简历｜团队介绍｜数智融合创新研究团队"
 author_profile: false
 ---
 
