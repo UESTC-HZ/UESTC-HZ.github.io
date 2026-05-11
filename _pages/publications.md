@@ -8,6 +8,7 @@ permalink: /publications/
 
 - 完整论文列表，请参见 [谷歌学术 →](https://scholar.google.com/citations?user=4ySzHlYAAAAJ&hl=en)
 
+
 ## 2026
 
 **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**  
